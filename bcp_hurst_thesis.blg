@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bcp_hurst_thesis.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--empty booktitle in caliNeuroVerseImmersiveExploration2024
+You've used 66 entries,
+            2118 wiz_defined-function locations,
+            922 strings with 27955 characters,
+and the built_in function-call counts, 34555 in all, are:
+= -- 3019
+> -- 3055
+< -- 3
++ -- 1221
+- -- 1144
+* -- 3216
+:= -- 6153
+add.period$ -- 196
+call.type$ -- 66
+change.case$ -- 768
+chr.to.int$ -- 0
+cite$ -- 67
+duplicate$ -- 737
+empty$ -- 1706
+format.name$ -- 1144
+if$ -- 6529
+int.to.chr$ -- 0
+int.to.str$ -- 66
+missing$ -- 62
+newline$ -- 328
+num.names$ -- 132
+pop$ -- 696
+preamble$ -- 1
+purify$ -- 703
+quote$ -- 0
+skip$ -- 497
+stack$ -- 0
+substring$ -- 1682
+swap$ -- 91
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 262
+warning$ -- 1
+while$ -- 226
+width$ -- 68
+write$ -- 713
+(There was 1 warning)

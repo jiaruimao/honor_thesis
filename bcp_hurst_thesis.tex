@@ -1,0 +1,80 @@
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[sc]{mathpazo}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{paralist}
+\usepackage{graphicx}
+\graphicspath{{../paper/hurst/figures/}}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{nameref}
+\usepackage{xspace}
+\usepackage{lettrine}
+\usepackage{caption}
+\captionsetup[figure]{labelfont={bf},labelformat={default},labelsep=space,name={Figure}}
+
+\def\etc{etc.\@\xspace}
+\def\eg{e.g.\@\xspace}
+\def\ie{i.e.\@\xspace}
+\def\etal{et~al.\@\xspace}
+
+\title{Coordinated maturation of cortical structural and functional hierarchies shapes structure--function coupling in early childhood}
+\author{Jiarui Mao}
+\date{\today}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    \vspace*{1.5cm}
+    {\LARGE \textbf{Coordinated maturation of cortical structural and functional hierarchies}}\\[0.3cm]
+    {\LARGE \textbf{shapes structure--function coupling in early childhood}}\\[1.3cm]
+
+    {\large Jiarui Mao}\\[1.2cm]
+
+    {\large University of North Carolina at Chapel Hill}\\[0.3cm]
+    {\large Department of Biostatistics}\\[0.3cm]
+    {\large \today}
+\end{titlepage}
+
+\pagenumbering{roman}
+
+\section*{Menu}
+\tableofcontents
+
+\clearpage
+\pagenumbering{arabic}
+
+\section{Abstract}
+\input{section_1_abstract.tex}
+
+\section{Introduction}
+\input{section_2_introduction.tex}
+
+\section{Methods}
+\input{section_3_methods.tex}
+
+\section{Results}
+\input{section_4_result.tex}
+
+\section{Discussion}
+\input{section_5_discussion.tex}
+
+\section{Limitation}
+\input{section_6_limitation.tex}
+
+\clearpage
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}

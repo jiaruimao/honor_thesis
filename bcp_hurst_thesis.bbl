@@ -1,0 +1,489 @@
+\begin{thebibliography}{10}
+
+\bibitem{ahmad2020fast}
+Sahar Ahmad, Ye~Wu, Khoi~Minh Huynh, Kim-Han Thung, Weili Lin, Dinggang Shen,
+  Pew-Thian Yap, UNC/UMN Baby Connectome~Project Consortium, et~al.
+\newblock Fast correction of eddy-current and susceptibility-induced
+  distortions using rotation-invariant contrasts.
+\newblock In {\em International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, pages 34--43. Springer, 2020.
+
+\bibitem{anderssonHowCorrectSusceptibility2003}
+Jesper~L.R. Andersson, Stefan Skare, and John Ashburner.
+\newblock How to correct susceptibility distortions in spin-echo echo-planar
+  images: Application to diffusion tensor imaging.
+\newblock {\em NeuroImage}, 20:870--888, 2003.
+
+\bibitem{avants2009advanced}
+Brian~B Avants, Nick Tustison, and Gang Song.
+\newblock Advanced normalization tools (ants).
+\newblock {\em Insight j}, 2:1--35, 2009.
+
+\bibitem{babaeeghazviniBrainStructuralFunctional2021}
+Parinaz Babaeeghazvini, Laura~M. {Rueda-Delgado}, Jolien Gooijers, Stephan~P.
+  Swinnen, and Andreas Daffertshofer.
+\newblock Brain {{Structural}} and {{Functional Connectivity}}: {{A Review}} of
+  {{Combined Works}} of {{Diffusion Magnetic Resonance Imaging}} and
+  {{Electro-Encephalography}}.
+\newblock {\em Frontiers in Human Neuroscience}, 15:721206, 2021.
+
+\bibitem{bao2021bruceR}
+Han-Wen~Steven Bao.
+\newblock {\em bruceR: Broadly Useful Convenient and Efficient R Functions},
+  2021.
+
+\bibitem{baumDevelopmentStructureFunction2020}
+Graham~L. Baum, Zaixu Cui, David~R. Roalf, Rastko Ciric, Richard~F. Betzel,
+  Bart Larsen, Matthew Cieslak, Philip~A. Cook, Cedric~H. Xia, Tyler~M. Moore,
+  Kosha Ruparel, Desmond~J. Oathes, Aaron~F. {Alexander-Bloch}, Russell~T.
+  Shinohara, Armin Raznahan, Raquel~E. Gur, Ruben~C. Gur, Danielle~S. Bassett,
+  and Theodore~D. Satterthwaite.
+\newblock Development of structure--function coupling in human brain networks
+  during youth.
+\newblock {\em Proceedings of the National Academy of Sciences}, 117:771--778,
+  2020.
+
+\bibitem{baumGradedVariationT1w2022}
+Graham~L. Baum, John~C. Flournoy, Matthew~F. Glasser, Michael~P. Harms, Patrick
+  Mair, Ashley F.~P. Sanders, Deanna~M. Barch, Randy~L. Buckner, Susan
+  Bookheimer, Mirella Dapretto, Stephen Smith, Kathleen~M. Thomas, Essa Yacoub,
+  David~C. Van~Essen, and Leah~H. Somerville.
+\newblock Graded {{Variation}} in {{T1w}}/{{T2w Ratio}} during {{Adolescence}}:
+  {{Measurement}}, {{Caveats}}, and {{Implications}} for {{Development}} of
+  {{Cortical Myelin}}.
+\newblock {\em The Journal of Neuroscience}, 42:5681--5694, 2022.
+
+\bibitem{bruiningMeasurementExcitationinhibitionRatio2020}
+Hilgo Bruining, Richard Hardstone, Erika~L. {Juarez-Martinez}, Jan Sprengers,
+  Arthur-Ervin Avramiea, Sonja Simpraga, Simon~J. Houtman, Simon-Shlomo Poil,
+  Eva Dallares, Satu Palva, Bob Oranje, J.~Matias~Palva, Huibert~D. Mansvelder,
+  and Klaus {Linkenkaer-Hansen}.
+\newblock Measurement of excitation-inhibition ratio in autism spectrum
+  disorder using critical brain dynamics.
+\newblock {\em Scientific Reports}, 10:9195, 2020.
+
+\bibitem{caliNeuroVerseImmersiveExploration2024}
+Corrado Cali and Marco Agus.
+\newblock {{NeuroVerse}}: {{Immersive}} exploration of {{3D}} ultrastructural
+  brain reconstructions for education and collaborative analysis.
+\newblock pages 1--10. ACM, 2024.
+
+\bibitem{carterlenoInfantExcitationInhibition2022}
+Virginia Carter~Leno, Jannath {Begum-Ali}, Amy Goodwin, Luke Mason, Greg Pasco,
+  Andrew Pickles, Shruti Garg, Jonathan Green, Tony Charman, Mark~H. Johnson,
+  Emily J.~H. Jones, {the EDEN}, Grace Vassallo, Emma {Burkitt-Wright}, Judith
+  Eelloo, D~Gareth~Evans, Siobhan West, Eileen Hupton, Lauren Lewis, Louise
+  Robinson, Angus Dobbie, Ruth Drimer, Helen Bethell, Rachel Jones, Susan
+  Musson, Catherine Prem, Miranda Splitt, Karen Horridge, Diana Baralle,
+  Carolyn Redman, Helen Tomkins, Ankita Bhojwani, Shannon Connelly, Francesca
+  Conti, Beth Evans, Meg Jackson, Emily Powell, {STAARS Teams}, Mary Agyapong,
+  Tessel Bazelmans, Leila Dafner, Mutluhan Ersoy, Teea Gliga, Rianne Haartsen,
+  Hanna Halkola, Alexandra Hendry, Rebecca Holman, Sarah Kalwarowsky, Anna
+  Kolesnik, Nisha Narvekar, and Chlo{\"e} Taylor.
+\newblock Infant excitation/inhibition balance interacts with executive
+  attention to predict autistic traits in childhood.
+\newblock {\em Molecular Autism}, 13, 2022.
+
+\bibitem{chiangStructuralFunctionalCoupling2015}
+Sharon Chiang, John~M. Stern, Jerome Engel, and Zulfi Haneef.
+\newblock Structural--functional coupling changes in temporal lobe epilepsy.
+\newblock {\em Brain Research}, 1616:45--57, 2015.
+
+\bibitem{deoniCorticalMaturationMyelination2015a}
+Sean~C.L. Deoni, Douglas~C. Dean, Justin Remer, Holly Dirks, and Jonathan
+  O'Muircheartaigh.
+\newblock Cortical maturation and myelination in healthy toddlers and young
+  children.
+\newblock {\em NeuroImage}, 115:147--161, 2015.
+
+\bibitem{FaccaMultiscale2024}
+Massimiliano Facca, Alessandra Del~Felice, and Alessandra Bertoldo.
+\newblock Multiscale and multimodal signatures of structure-function coupling
+  variability across the human neocortex.
+\newblock {\em NeuroImage}, 302:120902, 2024.
+
+\bibitem{fonovUnbiasedAverageAgeappropriate2011}
+Vladimir Fonov, Alan~C. Evans, Kelly Botteron, C.~Robert Almli, Robert~C.
+  McKinstry, and D.~Louis Collins.
+\newblock Unbiased average age-appropriate atlases for pediatric studies.
+\newblock {\em NeuroImage}, 54:313--327, 2011.
+
+\bibitem{fonovUnbiasedNonlinearAverage2009}
+Vs~Fonov, Ac~Evans, Rc~McKinstry, Cr~Almli, and Dl~Collins.
+\newblock Unbiased nonlinear average age-appropriate brain templates from birth
+  to adulthood.
+\newblock {\em NeuroImage}, 47:S102, 2009.
+
+\bibitem{fotiadisMyelinationExcitationinhibitionBalance2023}
+Panagiotis Fotiadis, Matthew Cieslak, Xiaosong He, Lorenzo Caciagli, Mathieu
+  Ouellet, Theodore~D. Satterthwaite, Russell~T. Shinohara, and Dani~S.
+  Bassett.
+\newblock Myelination and excitation-inhibition balance synergistically shape
+  structurefunction coupling across the human cortex.
+\newblock {\em Nature Communications}, 14:6115, 2023.
+
+\bibitem{gaoInferringSynapticExcitation2017}
+Richard Gao, Erik~J. Peterson, and Bradley Voytek.
+\newblock Inferring synaptic excitation/inhibition balance from field
+  potentials.
+\newblock {\em NeuroImage}, 158:70--78, 2017.
+
+\bibitem{gaoDevelopmentHumanBrain2015}
+Wei Gao, Sarael Alcauter, J.~Keith Smith, John~H. Gilmore, and Weili Lin.
+\newblock Development of human brain cortical network architecture during
+  infancy.
+\newblock {\em Brain Structure and Function}, 220:1173--1186, 2015.
+
+\bibitem{glasserMultimodalParcellationHuman2016}
+Matthew~F. Glasser, Timothy~S. Coalson, Emma~C. Robinson, Carl~D. Hacker, John
+  Harwell, Essa Yacoub, Kamil Ugurbil, Jesper Andersson, Christian~F. Beckmann,
+  Mark Jenkinson, Stephen~M. Smith, and David~C. Van~Essen.
+\newblock A multi-modal parcellation of human cerebral cortex.
+\newblock {\em Nature}, 536:171--178, 2016.
+
+\bibitem{glasserMinimalPreprocessingPipelines2013}
+Matthew~F. Glasser, Stamatios~N. Sotiropoulos, J.~Anthony Wilson, Timothy~S.
+  Coalson, Bruce Fischl, Jesper~L. Andersson, Junqian Xu, Saad Jbabdi, Matthew
+  Webster, Jonathan~R. Polimeni, David~C. Van~Essen, Mark Jenkinson, and
+  {WU-Minn HCP Consortium}.
+\newblock The minimal preprocessing pipelines for the {{Human Connectome
+  Project}}.
+\newblock {\em NeuroImage}, 80:105--124, 2013.
+
+\bibitem{glasserMappingHumanCortical2011}
+Matthew~F. Glasser and David~C. Van~Essen.
+\newblock Mapping {{Human Cortical Areas}} {{{\emph{In Vivo}}}} {{Based}} on
+  {{Myelin Content}} as {{Revealed}} by {{T1-}} and {{T2-Weighted MRI}}.
+\newblock {\em The Journal of Neuroscience}, 31:11597--11616, 2011.
+
+\bibitem{gonzalez-ramirezBiologicallyConstrainedMathematical2015}
+Laura~R. {Gonz{\'a}lez-Ram{\'\i}rez}, Omar~J. Ahmed, Sydney~S. Cash, C.~Eugene
+  Wayne, and Mark~A. Kramer.
+\newblock A {{Biologically Constrained}}, {{Mathematical Model}} of {{Cortical
+  Wave Propagation Preceding Seizure Termination}}.
+\newblock {\em PLOS Computational Biology}, 11:e1004065, 2015.
+
+\bibitem{greveAccurateRobustBrain2009}
+Douglas~N. Greve and Bruce Fischl.
+\newblock Accurate and robust brain image alignment using boundary-based
+  registration.
+\newblock {\em NeuroImage}, 48:63--72, 2009.
+
+\bibitem{guHeritabilityInterindividualVariability2021}
+Zijin Gu, Keith~Wakefield Jamison, Mert~Rory Sabuncu, and Amy Kuceyeski.
+\newblock Heritability and interindividual variability of regional
+  structure-function coupling.
+\newblock {\em Nature Communications}, 12:4894, 2021.
+
+\bibitem{houtmanSTXBP1SyndromeCharacterized2021}
+Simon~J. Houtman, Hanna C.~A. Lammertse, Annemiek~A. Van~Berkel, Ganna
+  Balagura, Elena Gardella, Jennifer~R. Ramautar, Chiara Reale, Rikke~S.
+  M{\o}ller, Federico Zara, Pasquale Striano, Mala {Misra-Isrie}, Mieke~M.
+  Van~Haelst, Marc Engelen, Titia~L. Van~Zuijen, Huibert~D. Mansvelder,
+  Matthijs Verhage, Hilgo Bruining, and Klaus {Linkenkaer-Hansen}.
+\newblock {{STXBP1 Syndrome Is Characterized}} by {{Inhibition-Dominated
+  Dynamics}} of {{Resting-State EEG}}.
+\newblock {\em Frontiers in Physiology}, 12:775172, 2021.
+
+\bibitem{howellUNCUMNBaby2019}
+Brittany~R. Howell, Martin~A. Styner, Wei Gao, Pew-Thian Yap, Li~Wang, Kristine
+  Baluyot, Essa Yacoub, Geng Chen, Taylor Potts, Andrew Salzwedel, Gang Li,
+  John~H. Gilmore, Joseph Piven, J.~Keith Smith, Dinggang Shen, Kamil Ugurbil,
+  Hongtu Zhu, Weili Lin, and Jed~T. Elison.
+\newblock The {{UNC}}/{{UMN Baby Connectome Project}} ({{BCP}}): {{An}}
+  overview of the study design and protocol development.
+\newblock {\em NeuroImage}, 185:891--905, 2019.
+
+\bibitem{hughesGlialCellsPromote2021}
+Alexandria~N. Hughes.
+\newblock Glial {{Cells Promote Myelin Formation}} and {{Elimination}}.
+\newblock {\em Frontiers in Cell and Developmental Biology}, 9, 2021.
+
+\bibitem{huynhOptimalShrinkageDenoising2024}
+Khoi Huynh, Wei-Ting Chang, Ye~Wu, and Pew-Thian Yap.
+\newblock Optimal shrinkage denoising breaks the noise floor in high-resolution
+  diffusion mri.
+\newblock {\em Patterns}, 5(4):100954, 2024.
+
+\bibitem{jenkinsonImprovedOptimizationRobust2002}
+Mark Jenkinson, Peter Bannister, Michael Brady, and Stephen Smith.
+\newblock Improved {{Optimization}} for the {{Robust}} and {{Accurate Linear
+  Registration}} and {{Motion Correction}} of {{Brain Images}}.
+\newblock {\em NeuroImage}, 17:825--841, 2002.
+
+\bibitem{jenkinsonFSL2012}
+Mark Jenkinson, Christian~F. Beckmann, Timothy~E.J. Behrens, Mark~W. Woolrich,
+  and Stephen~M. Smith.
+\newblock {{FSL}}.
+\newblock {\em NeuroImage}, 62:782--790, 2012.
+
+\bibitem{larsenDevelopmentalReductionExcitation2022}
+Bart Larsen, Zaixu Cui, Azeez Adebimpe, Adam Pines, Aaron {Alexander-Bloch},
+  Max Bertolero, Monica~E. Calkins, Raquel~E. Gur, Ruben~C. Gur, Arun~S.
+  Mahadevan, Tyler~M. Moore, David~R. Roalf, Jakob Seidlitz, Valerie~J. Sydnor,
+  Daniel~H. Wolf, and Theodore~D. Satterthwaite.
+\newblock A developmental reduction of the excitation:inhibition ratio in
+  association cortex during adolescence.
+\newblock {\em Science Advances}, 8, 2022.
+
+\bibitem{lebelLongitudinalDevelopmentHuman2011}
+C.~Lebel and C.~Beaulieu.
+\newblock Longitudinal {{Development}} of {{Human Brain Wiring Continues}} from
+  {{Childhood}} into {{Adulthood}}.
+\newblock {\em Journal of Neuroscience}, 31:10937--10947, 2011.
+
+\bibitem{liu2019multi}
+Siyuan Liu, Kim-Han Thung, Weili Lin, Pew-Thian Yap, Dinggang Shen, and UNC/UMN
+  Baby Connectome~Project Consortium.
+\newblock Multi-stage image quality assessment of diffusion {MRI} via
+  semi-supervised nonlocal residual networks.
+\newblock In {\em Medical Image Computing and Computer Assisted
+  Intervention--MICCAI 2019: 22nd International Conference, Shenzhen, China,
+  October 13--17, 2019, Proceedings, Part III 22}, pages 521--528. Springer,
+  2019.
+
+\bibitem{liuMultistageImageQuality2019}
+Siyuan Liu, Kim-Han Thung, Weili Lin, Pew-Thian Yap, Dinggang Shen, and
+  {UNC/UMN Baby Connectome Project Consortium}.
+\newblock Multi-stage {{Image Quality Assessment}} of {{Diffusion MRI}} via
+  {{Semi-supervised Nonlocal Residual Networks}}.
+\newblock {\em Medical image computing and computer-assisted intervention:
+  MICCAI ... International Conference on Medical Image Computing and
+  Computer-Assisted Intervention}, 11766:521--528, 2019.
+
+\bibitem{liuTimeresolvedStructurefunctionCoupling2022}
+Zhen-Qi Liu, Bertha {V{\'a}zquez-Rodr{\'\i}guez}, R.~Nathan Spreng, Boris~C.
+  Bernhardt, Richard~F. Betzel, and Bratislav Misic.
+\newblock Time-resolved structure-function coupling in brain networks.
+\newblock {\em Communications Biology}, 5:532, 2022.
+
+\bibitem{luoTwoAxesWhite2026}
+Audrey~C. Luo, Steven~L. Meisler, Valerie~J. Sydnor, Aaron {Alexander-Bloch},
+  Jo{\"e}lle Bagautdinova, Deanna~M. Barch, Dani~S. Bassett, Christos
+  Davatzikos, Alexandre~R. Franco, Jeff Goldsmith, Raquel~E. Gur, Ruben~C. Gur,
+  Fengling Hu, Marc Jaskir, Gregory Kiar, Arielle~S. Keller, Bart Larsen,
+  Allyson~P. Mackey, Michael~P. Milham, David~R. Roalf, Golia Shafiei,
+  Russell~T. Shinohara, Leah~H. Somerville, Sarah~M. Weinstein, Jason~D.
+  Yeatman, Matthew Cieslak, Ariel Rokem, and Theodore~D. Satterthwaite.
+\newblock Two axes of white matter development.
+\newblock {\em Nature Communications}, 2026.
+
+\bibitem{marguliesSituatingDefaultmodeNetwork2016}
+Daniel~S. Margulies, Satrajit~S. Ghosh, Alexandros Goulas, Marcel Falkiewicz,
+  Julia~M. Huntenburg, Georg Langs, Gleb Bezgin, Simon~B. Eickhoff, F.~Xavier
+  Castellanos, Michael Petrides, Elizabeth Jefferies, and Jonathan Smallwood.
+\newblock Situating the default-mode network along a principal gradient of
+  macroscale cortical organization.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  113:12574--12579, 2016.
+
+\bibitem{millerProlongedMyelinationHuman2012}
+Daniel~J. Miller, Tetyana Duka, Cheryl~D. Stimpson, Steven~J. Schapiro,
+  Wallace~B. Baze, Mark~J. McArthur, Archibald~J. Fobbs, Andr{\'e} M.~M. Sousa,
+  Nenad {\v S}estan, Derek~E. Wildman, Leonard Lipovich, Christopher~W. Kuzawa,
+  Patrick~R. Hof, and Chet~C. Sherwood.
+\newblock Prolonged myelination in human neocortical evolution.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  109:16480--16485, 2012.
+
+\bibitem{naveMyelinationSupportAxonal2010}
+Klaus-Armin Nave.
+\newblock Myelination and support of axonal integrity by glia.
+\newblock {\em Nature}, 468:244--252, 2010.
+
+\bibitem{nelsonIntroductionHEALthyBrain2024}
+Charles~A. Nelson, Jessica Frankeberger, and Christina~D. Chambers.
+\newblock An introduction to the {{HEALthy Brain}} and {{Child Development
+  Study}} ({{HBCD}}) study.
+\newblock {\em Developmental Cognitive Neuroscience}, 69(101441):101441, 2024.
+
+\bibitem{nishioHurstExponentMarker2024}
+Monami Nishio, Monica~E. {Ellwood-Lowe}, Mackenzie Woodburn, Cassidy~L.
+  McDermott, Anne~T. Park, Ursula~A. Tooley, Austin~L. Boroshok, Joanes
+  Grandjean, and Allyson~P. Mackey.
+\newblock The {{Hurst}} exponent as a marker of inhibition in the developing
+  brain, 2024.
+
+\bibitem{parkConnectomewideStructurefunctionCoupling2023}
+Bo-yong Park, Oualid Benkarim, Clara~F. Weber, Valeria Kebets, Serena Fett,
+  Seulki Yoo, Adriana~Di Martino, Michael~P. Milham, Bratislav Misic, Seok-Jun
+  Hong, and Boris~C. Bernhardt.
+\newblock Connectome-wide structure-function coupling models implicate
+  polysynaptic alterations in autism, 2023.
+
+\bibitem{parkesEvaluationEfficacyReliability2018}
+Linden Parkes, Ben Fulcher, Murat Y{\"u}cel, and Alex Fornito.
+\newblock An evaluation of the efficacy, reliability, and sensitivity of motion
+  correction strategies for resting-state functional {{MRI}}.
+\newblock {\em NeuroImage}, 171:415--436, 2018.
+
+\bibitem{petanjekExtraordinaryNeotenySynaptic2011}
+Zdravko Petanjek, Milo{\v s} Juda{\v s}, Goran {\v S}imi{\'c}, Mladen~Roko
+  Ra{\v s}in, Harry B.~M. Uylings, Pasko Rakic, and Ivica Kostovi{\'c}.
+\newblock Extraordinary neoteny of synaptic spines in the human prefrontal
+  cortex.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  108:13281--13286, 2011.
+
+\bibitem{powerSpuriousSystematicCorrelations2012}
+Jonathan~D. Power, Kelly~A. Barnes, Abraham~Z. Snyder, Bradley~L. Schlaggar,
+  and Steven~E. Petersen.
+\newblock Spurious but systematic correlations in functional connectivity
+  {{MRI}} networks arise from subject motion.
+\newblock {\em NeuroImage}, 59:2142--2154, 2012.
+
+\bibitem{pruimICAAROMARobustICAbased2015}
+Raimon~H.R. Pruim, Maarten Mennes, Daan Van~Rooij, Alberto Llera, Jan~K.
+  Buitelaar, and Christian~F. Beckmann.
+\newblock {{ICA-AROMA}}: {{A}} robust {{ICA-based}} strategy for removing
+  motion artifacts from {{fMRI}} data.
+\newblock {\em NeuroImage}, 112:267--277, 2015.
+
+\bibitem{smithAdvancesFunctionalStructural2004}
+Stephen~M. Smith, Mark Jenkinson, Mark~W. Woolrich, Christian~F. Beckmann,
+  Timothy~E.J. Behrens, Heidi {Johansen-Berg}, Peter~R. Bannister, Marilena
+  De~Luca, Ivana Drobnjak, David~E. Flitney, Rami~K. Niazy, James Saunders,
+  John Vickers, Yongyue Zhang, Nicola De~Stefano, J.~Michael Brady, and Paul~M.
+  Matthews.
+\newblock Advances in functional and structural {{MR}} image analysis and
+  implementation as {{FSL}}.
+\newblock {\em NeuroImage}, 23:S208--S219, 2004.
+
+\bibitem{somanCorticalStructuralFunctional2023}
+Shania~Mereen Soman, Nandita Vijayakumar, Phoebe Thomson, Gareth Ball,
+  Christian Hyde, and Timothy~J. Silk.
+\newblock Cortical structural and functional coupling during development and
+  implications for attention deficit hyperactivity disorder.
+\newblock {\em Translational Psychiatry}, 13:252, 2023.
+
+\bibitem{stanyardAperiodicHurstEEG2024a}
+R.A. Stanyard, D.~Mason, C.~Ellis, H.~Dickson, R.~Short, D.~Batalle, and
+  T.~Arichi.
+\newblock Aperiodic and {{Hurst EEG}} exponents across early human brain
+  development: {{A}} systematic review.
+\newblock {\em Developmental Cognitive Neuroscience}, 68:101402, 2024.
+
+\bibitem{suarezLinkingStructureFunction2020a}
+Laura~E. Su{\'a}rez, Ross~D. Markello, Richard~F. Betzel, and Bratislav Misic.
+\newblock Linking {{Structure}} and {{Function}} in {{Macroscale Brain
+  Networks}}.
+\newblock {\em Trends in Cognitive Sciences}, 24:302--315, 2020.
+
+\bibitem{sunModularlevelAlterationsStructure2017}
+Yu~Sun, Zhongxiang Dai, Junhua Li, Simon~L. Collinson, and Kang Sim.
+\newblock Modular-level alterations of structure--function coupling in
+  schizophrenia connectome.
+\newblock {\em Human Brain Mapping}, 38:2008--2025, 2017.
+
+\bibitem{sydnorNeurodevelopmentAssociationCortices2021}
+Valerie~J. Sydnor, Bart Larsen, Danielle~S. Bassett, Aaron {Alexander-Bloch},
+  Damien~A. Fair, Conor Liston, Allyson~P. Mackey, Michael~P. Milham, Adam
+  Pines, David~R. Roalf, Jakob Seidlitz, Ting Xu, Armin Raznahan, and
+  Theodore~D. Satterthwaite.
+\newblock Neurodevelopment of the association cortices: {{Patterns}},
+  mechanisms, and implications for psychopathology.
+\newblock {\em Neuron}, 109:2820--2846, 2021.
+
+\bibitem{sylvesterNetworkspecificSelectivityFunctional2023}
+Chad~M Sylvester, Sydney Kaplan, Michael~J Myers, Evan~M Gordon, Rebecca~F
+  Schwarzlose, Dimitrios Alexopoulos, Ashley~N Nielsen, Jeanette~K Kenley,
+  Dominique Meyer, Qiongru Yu, Alice~M Graham, Damien~A Fair, Barbara~B Warner,
+  Deanna~M Barch, Cynthia~E Rogers, Joan~L Luby, Steven~E Petersen, and
+  Christopher~D Smyser.
+\newblock Network-specific selectivity of functional connections in the
+  neonatal brain.
+\newblock {\em Cerebral Cortex}, 33:2200--2214, 2023.
+
+\bibitem{taylorFunctionalHierarchyHuman2024}
+Hoyt~Patrick Taylor, Khoi~Minh Huynh, Kim-Han Thung, Guoye Lin, Wenjiao Lyu,
+  Weili Lin, Sahar Ahmad, and Pew-Thian Yap.
+\newblock Functional {{Hierarchy}} of the {{Human Neocortex}} from {{Cradle}}
+  to {{Grave}}, 2024.
+
+\bibitem{tooleyStructureFunctionCoupling2025}
+Ursula~A. Tooley, Jeanette~K. Kenley, M.~Catalina Camacho, Aidan Latham,
+  Dimitrios Alexopoulos, Ashley~N. Nielsen, Tara~A. Smyser, Barbara~B. Warner,
+  Joshua~S. Shimony, Jeffrey~J. Neil, Joan~L. Luby, Deanna~M. Barch, Cynthia~E.
+  Rogers, and Christopher~D. Smyser.
+\newblock Structure--function coupling in the first month of life:
+  {{Associations}} with age and attention.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  122:e2412729122, 2025.
+
+\bibitem{trakoshisIntrinsicExcitationinhibitionImbalance2020}
+Stavros Trakoshis, Pablo {Mart{\'\i}nez-Ca{\~n}ada}, Federico Rocchi, Carola
+  Canella, Wonsang You, Bhismadev Chakrabarti, Amber~Nv Ruigrok, Edward~T
+  Bullmore, John Suckling, Marija Markicevic, Valerio Zerbi, {MRC AIMS
+  Consortium}, Simon {Baron-Cohen}, Alessandro Gozzi, Meng-Chuan Lai, Stefano
+  Panzeri, and Michael~V Lombardo.
+\newblock Intrinsic excitation-inhibition imbalance affects medial prefrontal
+  cortex differently in autistic men versus women.
+\newblock {\em eLife}, 9:e55684, 2020.
+
+\bibitem{vazquez-rodriguezGradientsStructureFunction2019}
+Bertha {V{\'a}zquez-Rodr{\'\i}guez}, Laura~E. Su{\'a}rez, Ross~D. Markello,
+  Golia Shafiei, Casey Paquola, Patric Hagmann, Martijn~P. Van Den~Heuvel,
+  Boris~C. Bernhardt, R.~Nathan Spreng, and Bratislav Misic.
+\newblock Gradients of structure--function tethering across neocortex.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  116:21219--21227, 2019.
+
+\bibitem{veraartDiffusionMRINoise2016}
+Jelle Veraart, Els Fieremans, and Dmitry~S. Novikov.
+\newblock Diffusion mri noise mapping using random matrix theory.
+\newblock {\em Magnetic Resonance in Medicine}, 76:1582--1593, 2016.
+
+\bibitem{vizioliLoweringThermalNoise2021}
+Lucas Vizioli, Steen Moeller, Lauren Dowdle, Murat Ak\c{c}akaya, Federico
+  De~Martino, Essa Yacoub, and Kamil U\u{g}urbil.
+\newblock Lowering the thermal noise barrier in functional brain mapping with
+  magnetic resonance imaging.
+\newblock {\em Nature Communications}, 12:5181, 2021.
+
+\bibitem{warringtonResourceDevelopmentComparison2023}
+Shaun Warrington, Asante Ntata, Olivier Mougin, Jon Campbell, Andrea Torchi,
+  Martin Craig, Fidel Alfaro-Almagro, Karla~L. Miller, Paul~S. Morgan, Mark
+  Jenkinson, and Stamatios~N. Sotiropoulos.
+\newblock A resource for development and comparison of multimodal brain 3 t mri
+  harmonization approaches.
+\newblock {\em Imaging Neuroscience}, 1:1--27, 2023.
+
+\bibitem{westbrookMRIPractice6th}
+Catherine Westbrook, Carolyn Kaut-Roth, and John Talbot.
+\newblock {\em MRI in Practice}.
+\newblock Wiley-Blackwell, 6 edition, 2024.
+
+\bibitem{xiaDevelopmentSensorimotorvisualConnectome2024}
+Yunman Xia, Jianlong Zhao, Yuehua Xu, Dingna Duan, Mingrui Xia, Tina Jeon,
+  Minhui Ouyang, Lina Chalak, Nancy Rollins, Hao Huang, and Yong He.
+\newblock Development of sensorimotor-visual connectome gradient at birth
+  predicts neurocognitive outcomes at 2 years of age.
+\newblock {\em iScience}, 27:108981, 2024.
+
+\bibitem{xuStructuralConnectivityMatures2024}
+Xiaoyu Xu, Hang Yang, Jing Cong, Valerie Sydnor, and Zaixu Cui.
+\newblock Structural connectivity matures along a sensorimotor-association
+  connectional axis in youth, 2024.
+
+\bibitem{wu2021automated}
+Wu~Ye, Huynh Khoi, Liu Siyuan, Thung Kim-Han, Lin Weili, and Yap Pew-Thian.
+\newblock An automated processing pipeline for diffusion {MRI} in the baby
+  connectome project an automated processing pipeline for diffusion {MRI} in
+  the baby connectome project.
+\newblock In {\em Proc International Society for Magnetic Resonance in Medicine
+  (ISMRM)}, 2021.
+
+\bibitem{yuInitialMyelinationCentral2023}
+Qiang Yu, Teng Guan, Ying Guo, and Jiming Kong.
+\newblock The {{Initial Myelination}} in the {{Central Nervous System}}.
+\newblock {\em ASN Neuro}, 15:17590914231163039, 2023.
+
+\bibitem{zhangDynamicStructureFunction2024}
+Zhe Zhang, Wei Wei, Sujie Wang, Mingli Li, Xiaojing Li, Xiaoyu Li, Qiang Wang,
+  Hua Yu, Yamin Zhang, Wanjun Guo, Xiaohong Ma, Liansheng Zhao, Wei Deng, Pak~C
+  Sham, Yu~Sun, and Tao Li.
+\newblock Dynamic structure--function coupling across three major psychiatric
+  disorders.
+\newblock {\em Psychological Medicine}, 54:1629--1640, 2024.
+
+\end{thebibliography}

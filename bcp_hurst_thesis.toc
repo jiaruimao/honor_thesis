@@ -1,0 +1,27 @@
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{1}{section.2}%
+\contentsline {section}{\numberline {3}Methods}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data Collection and Preparation}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Denoising}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Connectivity matrix construction}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Functional gradients}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Structure-Function Coupling (SFC)}{12}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Excitation-inhibition balance}{13}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Myelination calculation}{13}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Correlation calculation}{14}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Spatial correlation}{14}{subsubsection.3.8.1}%
+\contentsline {subsubsection}{\numberline {3.8.2}Temporal correlation}{15}{subsubsection.3.8.2}%
+\contentsline {subsubsection}{\numberline {3.8.3}p-spin analysis}{15}{subsubsection.3.8.3}%
+\contentsline {subsubsection}{\numberline {3.8.4}Mediation analysis}{15}{subsubsection.3.8.4}%
+\contentsline {subsubsection}{\numberline {3.8.5}Generalized Additive Mixed Modeling}{17}{subsubsection.3.8.5}%
+\contentsline {section}{\numberline {4}Results}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}OSSVD improve performance of fMRI and individual gradient}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Functional gradient differentiation in HBCD and BCP during early infancy}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Global strengthening of structure--function coupling, myelination and temporal dynamics from birth to five years}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}From vertices to networks: SC, FC and SFC converge on a common S-A hierarchy}{22}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Excitation--inhibition balance shapes the SFC landscape via temporal dynamics}{25}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Gradient--E/I coupling (HBCD results)}{25}{subsubsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.6}Intracortical myelination tracks the emergence of SFC}{28}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Microstructure and excitation--inhibition balance gate how SC and FC co-development expresses as SFC}{29}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Discussion}{31}{section.5}%
+\contentsline {section}{\numberline {6}Limitation}{34}{section.6}%

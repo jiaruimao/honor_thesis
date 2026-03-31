@@ -4,45 +4,45 @@ The top-level auxiliary file: bcp_hurst_thesis.aux
 The style file: plain.bst
 Database file #1: references.bib
 Warning--empty booktitle in caliNeuroVerseImmersiveExploration2024
-You've used 66 entries,
+You've used 69 entries,
             2118 wiz_defined-function locations,
-            922 strings with 27955 characters,
-and the built_in function-call counts, 34555 in all, are:
-= -- 3019
-> -- 3055
+            938 strings with 28806 characters,
+and the built_in function-call counts, 35644 in all, are:
+= -- 3113
+> -- 3149
 < -- 3
-+ -- 1221
-- -- 1144
-* -- 3216
-:= -- 6153
-add.period$ -- 196
-call.type$ -- 66
-change.case$ -- 768
++ -- 1258
+- -- 1178
+* -- 3293
+:= -- 6345
+add.period$ -- 207
+call.type$ -- 69
+change.case$ -- 794
 chr.to.int$ -- 0
-cite$ -- 67
-duplicate$ -- 737
-empty$ -- 1706
-format.name$ -- 1144
-if$ -- 6529
+cite$ -- 70
+duplicate$ -- 758
+empty$ -- 1772
+format.name$ -- 1178
+if$ -- 6746
 int.to.chr$ -- 0
-int.to.str$ -- 66
+int.to.str$ -- 69
 missing$ -- 62
-newline$ -- 328
-num.names$ -- 132
-pop$ -- 696
+newline$ -- 345
+num.names$ -- 138
+pop$ -- 735
 preamble$ -- 1
-purify$ -- 703
+purify$ -- 726
 quote$ -- 0
-skip$ -- 497
+skip$ -- 516
 stack$ -- 0
-substring$ -- 1682
-swap$ -- 91
+substring$ -- 1697
+swap$ -- 94
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 262
+type$ -- 274
 warning$ -- 1
-while$ -- 226
-width$ -- 68
-write$ -- 713
+while$ -- 232
+width$ -- 71
+write$ -- 747
 (There was 1 warning)

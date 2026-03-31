@@ -42,6 +42,7 @@ To ensure data quality, framewise displacement (FD) was computed from the motion
 
 \subsection{Denoising}\label{subsec:denoising}
 Resting-state fMRI data from three healthy participants were obtained from the ON-Harmony dataset\cite{warringtonResourceDevelopmentComparison2023}. Data were acquired using a 3T Philips Achieva scanner with a repetition time of 1150\,ms (400 timepoints) and 2.4\,mm isotropic resolution. We compared our method, OS-SVD\cite{huynhOptimalShrinkageDenoising2024}, with two state-of-the-art techniques: MP-PCA\cite{veraartDiffusionMRINoise2016} and NORDIC\cite{vizioliLoweringThermalNoise2021}.
+This denoising and individual-gradient evaluation framework follows our prior work on precision functional gradients and optimal-shrinkage fMRI denoising\cite{maoPrecisionFunctionalGradients2026,maoLoweringThermalNoise2024}.
 
 \textbf{OS-SVD.} OS-SVD aggregates the time series of a group of neighboring voxels into a 2D matrix. It then applies singular value decomposition (SVD) followed by optimal shrinkage (OS) to separate signal and noise components.
 

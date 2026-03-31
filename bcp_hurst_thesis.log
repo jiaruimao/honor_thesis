@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 MAR 2026 03:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 MAR 2026 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -31,9 +31,8 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
-\symupright=\mathgroup4
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -134,8 +133,8 @@ LaTeX Info: Redefining \] on input line 2954.
 )
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup5
-\symAMSb=\mathgroup6
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
@@ -468,11 +467,11 @@ Package caption Info: hyperref package is loaded.
 )
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 35.
-LaTeX Font Info:    Trying to load font information for T1+pplx on input line 3
-5.
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 35
+.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pplx.fd
-File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (./bcp_hurst_thesis.aux)
 \openout1 = `bcp_hurst_thesis.aux'.
@@ -576,66 +575,31 @@ Package caption Info: End \AtBeginDocument code.
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}]
 (./bcp_hurst_thesis.toc
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-4.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
 
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-4.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-4.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-4.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 4.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 4.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 4.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 4.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 4.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 4.
-
-Overfull \hbox (1.31697pt too wide) in paragraph at lines 20--20
- [][] [][]\T1/pplx/m/n/12 Global strength-en-ing of structure--function cou-pli
-ng, myeli-na-tion and tem- 
+Overfull \hbox (15.89195pt too wide) in paragraph at lines 25--25
+ [][] [][]\T1/ptm/m/n/12 Microstructure and excitation--inhibition bal-ance gat
+e how SC and FC co-development 
  []
 
-
-
-[1])
+)
 \tf@toc=\write4
 \openout4 = `bcp_hurst_thesis.toc'.
 
 
 
-[2] (./section_1_abstract.tex) (./section_2_introduction.tex
-Package lettrine.sty Info: Targeted height = 23.84445pt
+[1] (./section_1_abstract.tex) (./section_2_introduction.tex
+Package lettrine.sty Info: Targeted height = 24.16841pt
 (lettrine.sty)             (for loversize=0, accent excluded),
-(lettrine.sty)             Lettrine height = 23.84454pt (E);
+(lettrine.sty)             Lettrine height = 24.16852pt (E);
 (lettrine.sty)             reported on input line 1.
 
 
@@ -644,55 +608,64 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2 
+l.4 
      [1
 
 ]
 
 [2]
-Overfull \hbox (5.76407pt too wide) in paragraph at lines 8--10
-\T1/pplx/m/n/12 tional interactions[[], []]. In adults, SFC is not uni-form acr
-oss the cor-tex: early-developing,
- []
-
-
-Overfull \hbox (8.72089pt too wide) in paragraph at lines 19--20
-\T1/pplx/m/n/12 com-mu-ni-ca-tion, and their de-vel-op-men-tal re-fine-ment^^Vv
-ia in-creases in myelin and changes
- []
-
-
-Overfull \hbox (1.69698pt too wide) in paragraph at lines 19--20
-\T1/pplx/m/n/12 nat-ing ear-lier and as-so-ci-a-tion cor-tex fol-low-ing more p
-ro-tracted trajectories[[], []]. Myeli-
- []
-
-
 
 [3]) (./section_3_methods.tex
 
 [4]
-Overfull \hbox (6.91525pt too wide) in paragraph at lines 4--5
-[]\T1/pplx/m/n/12 We also an-a-lyzed resting-state func-tional MRI (rs-fMRI) fr
-om the HBCD 1.0 release[[]],
+Overfull \hbox (1.76698pt too wide) in paragraph at lines 16--17
+\T1/ptm/m/n/12 scans were iden-ti-fied with a deep-learning, semi-automated qua
+l-ity as-sess-ment (QA) algorithm[[]].
  []
 
-
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 22
+.
+(/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
 
 [5]
-<figure/Figure1_population.pdf, id=277, 1927.2pt x 1084.05pt>
+<figure/Figure1_population.pdf, id=284, 1927.2pt x 1084.05pt>
 File: figure/Figure1_population.pdf Graphic file (type pdf)
 <use figure/Figure1_population.pdf>
 Package pdftex.def Info: figure/Figure1_population.pdf  used on input line 37.
 (pdftex.def)             Requested size: 446.26582pt x 251.01346pt.
 
+Overfull \hbox (3.67017pt too wide) in paragraph at lines 44--46
+\T1/ptm/m/n/12 1150ms (400 time-points) and 2.4mm isotropic res-o-lu-tion. We c
+om-pared our method, OS-SVD[[]],
+ []
 
-[6{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-]
-<figure/Figure2_denoising.png, id=309, 425.59pt x 199.74625pt>
+
+Overfull \hbox (9.18443pt too wide) in paragraph at lines 44--46
+\T1/ptm/m/n/12 with two state-of-the-art tech-niques: MP-PCA[[]] and NORDIC[[]]
+. This de-nois-ing and individual-
+ []
+
+
+Overfull \hbox (4.74472pt too wide) in paragraph at lines 44--46
+\T1/ptm/m/n/12 gradient eval-u-a-tion frame-work fol-lows our prior work on pre
+-ci-sion func-tional gra-di-ents and optimal-
+ []
+
+
+Overfull \hbox (7.14006pt too wide) in paragraph at lines 49--50
+[]\T1/ptm/b/n/12 MP-PCA. \T1/ptm/m/n/12 MP-PCA cal-cu-lates the co-vari-ance ma
+-trix of the 2D sig-nal ma-trix and uses Marcenko-
+ []
+
+
+
+[6]
+<figure/Figure2_denoising.png, id=313, 425.59pt x 199.74625pt>
 File: figure/Figure2_denoising.png Graphic file (type png)
 <use figure/Figure2_denoising.png>
-Package pdftex.def Info: figure/Figure2_denoising.png  used on input line 55.
+Package pdftex.def Info: figure/Figure2_denoising.png  used on input line 56.
 (pdftex.def)             Requested size: 446.26582pt x 209.46239pt.
 
 
@@ -701,63 +674,54 @@ Package pdftex.def Info: figure/Figure2_denoising.png  used on input line 55.
 [8 <./figure/Figure2_denoising.png>]
 
 [9]
-LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 
-104.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/psnfss/ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-)
-<figure/Figure3_individualgradients.jpeg, id=346, 1883.035pt x 913.4125pt>
+<figure/Figure3_individualgradients.jpeg, id=345, 1883.035pt x 913.4125pt>
 File: figure/Figure3_individualgradients.jpeg Graphic file (type jpg)
 <use figure/Figure3_individualgradients.jpeg>
 Package pdftex.def Info: figure/Figure3_individualgradients.jpeg  used on input
- line 116.
+ line 117.
 (pdftex.def)             Requested size: 446.26582pt x 216.46385pt.
 
 
-[10]
-
-[11 <./figure/Figure3_individualgradients.jpeg>]
-<figure/Figure4_SFCmethod.png, id=358, 636.3775pt x 271.0125pt>
+[10 <./figure/Figure3_individualgradients.jpeg>]
+<figure/Figure4_SFCmethod.png, id=352, 636.3775pt x 271.0125pt>
 File: figure/Figure4_SFCmethod.png Graphic file (type png)
 <use figure/Figure4_SFCmethod.png>
-Package pdftex.def Info: figure/Figure4_SFCmethod.png  used on input line 134.
+Package pdftex.def Info: figure/Figure4_SFCmethod.png  used on input line 135.
 (pdftex.def)             Requested size: 446.26582pt x 190.04654pt.
 
 
-[12
+[11
 
  <./figure/Figure4_SFCmethod.png>]
-<figure/Figure5_hurstmethod.png, id=371, 382.42876pt x 121.45375pt>
+<figure/Figure5_hurstmethod.png, id=366, 382.42876pt x 121.45375pt>
 File: figure/Figure5_hurstmethod.png Graphic file (type png)
 <use figure/Figure5_hurstmethod.png>
-Package pdftex.def Info: figure/Figure5_hurstmethod.png  used on input line 147
+Package pdftex.def Info: figure/Figure5_hurstmethod.png  used on input line 148
 .
 (pdftex.def)             Requested size: 446.26582pt x 141.7352pt.
 
 
-[13 <./figure/Figure5_hurstmethod.png>]
-<figure/Figure6_myelinationmethod.png, id=382, 422.57875pt x 180.675pt>
+[12 <./figure/Figure5_hurstmethod.png>]
+<figure/Figure6_myelinationmethod.png, id=377, 422.57875pt x 180.675pt>
 File: figure/Figure6_myelinationmethod.png Graphic file (type png)
 <use figure/Figure6_myelinationmethod.png>
 Package pdftex.def Info: figure/Figure6_myelinationmethod.png  used on input li
-ne 159.
+ne 160.
 (pdftex.def)             Requested size: 446.26582pt x 190.8088pt.
 
 
-[14 <./figure/Figure6_myelinationmethod.png>]
+[13 <./figure/Figure6_myelinationmethod.png>]
 
-[15]
+[14]
 
-[16])
-
-[17] (./section_4_result.tex
-<figure/Figure7_denoisingresult.jpeg, id=407, 1890.06125pt x 842.14626pt>
+[15]) (./section_4_result.tex
+<figure/Figure7_denoisingresult.jpeg, id=398, 1890.06125pt x 842.14626pt>
 File: figure/Figure7_denoisingresult.jpeg Graphic file (type jpg)
 <use figure/Figure7_denoisingresult.jpeg>
 Package pdftex.def Info: figure/Figure7_denoisingresult.jpeg  used on input lin
 e 11.
 (pdftex.def)             Requested size: 446.26582pt x 198.84245pt.
-<figure/Figure8_gradientcomparison.jpeg, id=408, 1367.1075pt x 508.90125pt>
+<figure/Figure8_gradientcomparison.jpeg, id=399, 1367.1075pt x 508.90125pt>
 File: figure/Figure8_gradientcomparison.jpeg Graphic file (type jpg)
 <use figure/Figure8_gradientcomparison.jpeg>
 Package pdftex.def Info: figure/Figure8_gradientcomparison.jpeg  used on input 
@@ -765,16 +729,16 @@ line 18.
 (pdftex.def)             Requested size: 446.26582pt x 166.12086pt.
 
 
-[18 <./figure/Figure7_denoisingresult.jpeg>]
+[16]
 
-[19 <./figure/Figure8_gradientcomparison.jpeg>]
-<figure/Figure9_gradienttimeline_BCP.jpeg, id=430, 1927.2pt x 528.97626pt>
+[17 <./figure/Figure7_denoisingresult.jpeg>]
+<figure/Figure9_gradienttimeline_BCP.jpeg, id=426, 1927.2pt x 528.97626pt>
 File: figure/Figure9_gradienttimeline_BCP.jpeg Graphic file (type jpg)
 <use figure/Figure9_gradienttimeline_BCP.jpeg>
 Package pdftex.def Info: figure/Figure9_gradienttimeline_BCP.jpeg  used on inpu
 t line 39.
 (pdftex.def)             Requested size: 446.26582pt x 122.48528pt.
-<figure/Figure10_gradienttimeline_HBCD.png, id=431, 687.56876pt x 221.82875pt>
+<figure/Figure10_gradienttimeline_HBCD.png, id=427, 687.56876pt x 221.82875pt>
 File: figure/Figure10_gradienttimeline_HBCD.png Graphic file (type png)
 <use figure/Figure10_gradienttimeline_HBCD.png>
 Package pdftex.def Info: figure/Figure10_gradienttimeline_HBCD.png  used on inp
@@ -782,35 +746,38 @@ ut line 47.
 (pdftex.def)             Requested size: 446.26582pt x 143.9771pt.
 
 
-[20 <./figure/Figure9_gradienttimeline_BCP.jpeg> <./figure/Figure10_gradienttim
-eline_HBCD.png>]
-<figure/Figure11_timeline.pdf, id=438, 1132.08946pt x 629.20067pt>
+[18 <./figure/Figure8_gradientcomparison.jpeg>]
+<figure/Figure11_timeline.pdf, id=436, 1132.08946pt x 629.20067pt>
 File: figure/Figure11_timeline.pdf Graphic file (type pdf)
 <use figure/Figure11_timeline.pdf>
 Package pdftex.def Info: figure/Figure11_timeline.pdf  used on input line 60.
 (pdftex.def)             Requested size: 446.26582pt x 248.0275pt.
 
 
-[21 <./figure/Figure11_timeline.pdf>]
-<figure/Figure12_SFC_atlas.pdf, id=542, 1710.76138pt x 1354.83165pt>
+[19 <./figure/Figure9_gradienttimeline_BCP.jpeg> <./figure/Figure10_gradienttim
+eline_HBCD.png>]
+<figure/Figure12_SFC_atlas.pdf, id=445, 1710.76138pt x 1354.83165pt>
 File: figure/Figure12_SFC_atlas.pdf Graphic file (type pdf)
 <use figure/Figure12_SFC_atlas.pdf>
 Package pdftex.def Info: figure/Figure12_SFC_atlas.pdf  used on input line 90.
 (pdftex.def)             Requested size: 446.26582pt x 353.40561pt.
-<figure/Figure13_supplementary_net_violin.pdf, id=543, 2409.0pt x 1606.0pt>
+<figure/Figure13_supplementary_net_violin.pdf, id=446, 2409.0pt x 1606.0pt>
 File: figure/Figure13_supplementary_net_violin.pdf Graphic file (type pdf)
 <use figure/Figure13_supplementary_net_violin.pdf>
 Package pdftex.def Info: figure/Figure13_supplementary_net_violin.pdf  used on 
 input line 98.
 (pdftex.def)             Requested size: 446.26582pt x 297.49744pt.
-<figure/Figure14_SC_Developmental_Trajectory.pdf, id=548, 1011.78pt x 578.16pt>
+
+
+[20 <./figure/Figure11_timeline.pdf>]
+<figure/Figure14_SC_Developmental_Trajectory.pdf, id=552, 1011.78pt x 578.16pt>
 
 File: figure/Figure14_SC_Developmental_Trajectory.pdf Graphic file (type pdf)
 <use figure/Figure14_SC_Developmental_Trajectory.pdf>
 Package pdftex.def Info: figure/Figure14_SC_Developmental_Trajectory.pdf  used 
 on input line 108.
 (pdftex.def)             Requested size: 446.26582pt x 255.00873pt.
-<figure/Figure15_FC_Developmental_trajectory_intra.pdf, id=549, 1011.78pt x 578
+<figure/Figure15_FC_Developmental_trajectory_intra.pdf, id=553, 1011.78pt x 578
 .16pt>
 File: figure/Figure15_FC_Developmental_trajectory_intra.pdf Graphic file (type 
 pdf)
@@ -819,28 +786,20 @@ Package pdftex.def Info: figure/Figure15_FC_Developmental_trajectory_intra.pdf
  used on input line 116.
 (pdftex.def)             Requested size: 446.26582pt x 255.00873pt.
 
-Overfull \hbox (30.61925pt too wide) in paragraph at lines 123--124
-\T1/pplx/m/n/12 in uni-modal VIS and SMN net-works, in-ter-me-di-ate in dor-sal
- and ven-tral at-ten-tion (DAN/VAN)
- []
 
+[21 <./figure/Figure12_SFC_atlas.pdf>]
 
-
-[22]
-
-[23 <./figure/Figure12_SFC_atlas.pdf>]
-
-[24 <./figure/Figure13_supplementary_net_violin.pdf>]
-<figure/Figure16_SFC_sa.pdf, id=668, 2305.10182pt x 1525.38878pt>
+[22 <./figure/Figure13_supplementary_net_violin.pdf>]
+<figure/Figure16_SFC_sa.pdf, id=666, 2305.10182pt x 1525.38878pt>
 File: figure/Figure16_SFC_sa.pdf Graphic file (type pdf)
 <use figure/Figure16_SFC_sa.pdf>
 Package pdftex.def Info: figure/Figure16_SFC_sa.pdf  used on input line 129.
 (pdftex.def)             Requested size: 446.26582pt x 295.29663pt.
 
 
-[25 <./figure/Figure14_SC_Developmental_Trajectory.pdf>]
+[23 <./figure/Figure14_SC_Developmental_Trajectory.pdf>]
 
-[26 <./figure/Figure15_FC_Developmental_trajectory_intra.pdf>]
+[24 <./figure/Figure15_FC_Developmental_trajectory_intra.pdf>]
 <figure/Figure17_Hurstgradient_HBCD.png, id=704, 472.76625pt x 431.6125pt>
 File: figure/Figure17_Hurstgradient_HBCD.png Graphic file (type png)
 <use figure/Figure17_Hurstgradient_HBCD.png>
@@ -855,8 +814,8 @@ Package pdftex.def Info: figure/Figure18_Hurstsa_BCP.png  used on input line 15
 (pdftex.def)             Requested size: 446.26582pt x 266.4908pt.
 
 
-[27 <./figure/Figure16_SFC_sa.pdf>]
-<figure/Figure19_myelinsa_BCP.png, id=771, 820.06375pt x 496.85625pt>
+[25 <./figure/Figure16_SFC_sa.pdf>]
+<figure/Figure19_myelinsa_BCP.png, id=770, 820.06375pt x 496.85625pt>
 File: figure/Figure19_myelinsa_BCP.png Graphic file (type png)
 <use figure/Figure19_myelinsa_BCP.png>
 Package pdftex.def Info: figure/Figure19_myelinsa_BCP.png  used on input line 1
@@ -864,28 +823,38 @@ Package pdftex.def Info: figure/Figure19_myelinsa_BCP.png  used on input line 1
 (pdftex.def)             Requested size: 446.26582pt x 270.39084pt.
 
 
+[26]
+
+[27]) (./section_5_discussion.tex
+
 [28]
 
-[29]) (./section_5_discussion.tex
+[29]
 
-[30]
+[30]) (./section_6_limitation.tex
 
-[31]
+[31])
 
 [32]
 
-[33]) (./section_6_limitation.tex)
+[33 <./figure/Figure17_Hurstgradient_HBCD.png>]
 
-[34]
-
-[35 <./figure/Figure17_Hurstgradient_HBCD.png>]
-
-[36 <./figure/Figure18_Hurstsa_BCP.png> <./figure/Figure19_myelinsa_BCP.png>]
+[34 <./figure/Figure18_Hurstsa_BCP.png> <./figure/Figure19_myelinsa_BCP.png>]
 (./bcp_hurst_thesis.bbl
 
-[37
+[35
 
 ]
+Underfull \hbox (badness 4193) in paragraph at lines 93--98
+[]\T1/ptm/m/n/12 Sean C.L. De-oni, Dou-glas C. Dean, Justin Re-mer, Holly Dirks
+, and Jonathan
+ []
+
+
+
+[36]
+
+[37]
 
 [38]
 
@@ -895,19 +864,9 @@ Package pdftex.def Info: figure/Figure19_myelinsa_BCP.png  used on input line 1
 
 [41]
 
-[42]
-Underfull \hbox (badness 1314) in paragraph at lines 379--386
-[]\T1/pplx/m/n/12 Valerie J. Syd-nor, Bart Larsen, Danielle S. Bas-sett, Aaron 
-Alexander-Bloch,
- []
+[42])
 
-
-
-[43]
-
-[44])
-
-[45] (./bcp_hurst_thesis.aux)
+[43] (./bcp_hurst_thesis.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -916,29 +875,31 @@ Package rerunfilecheck Info: File `bcp_hurst_thesis.out' has not changed.
 (rerunfilecheck)             Checksum: CA214A8AA343B24CC971F46C7AC75921;6529.
  ) 
 Here is how much of TeX's memory you used:
- 17382 strings out of 473190
- 340303 string characters out of 5715801
- 709546 words of memory out of 5000000
- 40205 multiletter control sequences out of 15000+600000
- 607964 words of font info for 117 fonts, out of 8000000 for 9000
+ 17263 strings out of 473190
+ 338780 string characters out of 5715801
+ 708829 words of memory out of 5000000
+ 40116 multiletter control sequences out of 15000+600000
+ 600810 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,2433b,1146s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2025/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/l
-ocal/texlive/2025/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/
-texlive/2025/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texl
-ive/2025/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive/2025
-/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/local/texlive/2025/t
-exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2025/texmf-di
-st/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2025/texmf-dist/font
-s/type1/urw/palatino/uplri8a.pfb>
-Output written on bcp_hurst_thesis.pdf (48 pages, 30759009 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/loc
+al/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texli
+ve/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2025/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/f
+onts/type1/urw/times/utmri8a.pfb>
+Output written on bcp_hurst_thesis.pdf (45 pages, 30771238 bytes).
 PDF statistics:
- 991 PDF objects out of 1000 (max. 8388607)
- 675 compressed objects within 7 object streams
+ 998 PDF objects out of 1000 (max. 8388607)
+ 681 compressed objects within 7 object streams
  175 named destinations out of 1000 (max. 500000)
  312 words of extra memory for PDF output out of 10000 (max. 10000000)
 

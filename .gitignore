@@ -1,0 +1,8 @@
+bcp_hurst_thesis.pdf
+*.aux
+*.bbl
+*.blg
+*.db_latexmk
+*.fls
+*.log
+*.toc

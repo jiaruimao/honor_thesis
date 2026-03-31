@@ -151,7 +151,7 @@ We projected each subject's preprocessed resting-state fMRI data onto the cortic
   \label{fig:hurst_method}
 \end{figure}
 
-\subsection{Myelination calculation}\label{subsec:myeliation}
+\subsection{Myelination calculation}\label{subsec:myelination}
 %i once have one sentence under fMRI preprocessing talk about it, can you pls check if this is true? 
 Intracortical myelination was estimated using the T1w/T2w ratio, which has been shown to correlate with histological measures of myelin content\cite{glasserMappingHumanCortical2011}. For each subject, we computed the T1w/T2w ratio at each vertex on the cortical surface by dividing the intensity of the T1-weighted image by that of the T2-weighted image. This ratio was then normalized across subjects to account for inter-individual variability in signal intensity and to facilitate group-level analyses. The resulting vertex-wise myelin maps were used in subsequent analyses to examine their relationship with SFC and other developmental metrics.
 
@@ -163,7 +163,7 @@ Intracortical myelination was estimated using the T1w/T2w ratio, which has been 
   \label{fig:myelin_method}
 \end{figure}
 
-\subsection{Correlation calculation}\label{subsec:correlation}
+\subsection{Statistical framework for spatial, temporal, and pathway analyses}\label{subsec:correlation}
 \subsubsection{Spatial correlation}
 For each timepoint $t$, we assembled two spatial maps across vertices: $X_t(v)$ (SFC) and $Y_t(v)$ (myelination or Hurst).  
 We computed the Pearson correlation
@@ -257,7 +257,7 @@ Uncertainty for direct and indirect effects was estimated using subject-level bo
 
 \subsubsection{Generalized Additive Mixed Modeling}\label{subsec:GAMM}
 We used Generalized Additive Mixed Model (GAMM) curve fitting to model nonlinear changes of each brain feature over a time window of 0 to 5 years. To capture rapid developmental changes in the early postnatal stage, we applied a log transformation to the age variable.
-For each vertex, we modeled changes $y$ as a function of age $t$ (fixed effect), individual $s$ (random effect) to account for longitudinal scans. The model incorporated smooth nonlinear functions $s_{\cdot}$, intercept $\beta$, and error $\epsilon \in \mathcal{N}(0,\sigma^2)$: $y=f(t,s)=\beta + s_t(\log_2(t+1) + s_s(s) + \epsilon$ with $t$ in years.
+For each vertex, we modeled changes $y$ as a function of age $t$ (fixed effect), individual $s$ (random effect) to account for longitudinal scans. The model incorporated smooth nonlinear functions $s_{\cdot}$, intercept $\beta$, and error $\epsilon \in \mathcal{N}(0,\sigma^2)$: $y=f(t,s)=\beta + s_t(\log_2(t+1)) + s_s(s) + \epsilon$ with $t$ in years.
 We set $s_{\cdot}$ to be cubic regression splines and used restricted maximum likelihood (REML) for smoothing parameter estimation, following \cite{taylorFunctionalHierarchyHuman2024}.
 The BCP dataset was acquired at two imaging sites: the University of North Carolina at Chapel Hill (UNC) and the University of Minnesota (UMN). However, we found no significant differences in data distribution, microstructural values, or cortical gradients between sites. Therefore, site effects were not included in our model. 
 

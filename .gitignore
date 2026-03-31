@@ -6,3 +6,4 @@ bcp_hurst_thesis.pdf
 *.fls
 *.log
 *.toc
+*.synctex.gz
